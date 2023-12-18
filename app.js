@@ -2,7 +2,7 @@
 
 const server = require("express");
 const morgan = require("morgan");
-const fs = require("node:fs");
+
 
 /// Testing some Express server Code and using middlewares and route mounting
 
